@@ -6,6 +6,7 @@ public class Test{
         int b=10;
         int c=10;
         int b=10;
+        int c=10;
         System.out.println("Hello World");
     }
 }
